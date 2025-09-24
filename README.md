@@ -5,21 +5,6 @@
 A modern, drag-and-drop no-code website builder aimed at non-technical entrepreneurs.  
 BuildAI combines an intuitive visual site builder with AI-assisted content generation and a simple e-commerce dashboard — all shipped as a frontend-focused app using **localStorage** for persistence (no external DB required).
 
----
-
-## 📑 Table of contents
-- [Overview](#overview)  
-- [Features](#features)  
-- [Tech stack](#tech-stack)  
-- [Seeding & data persistence](#seeding--data-persistence)  
-- [Deployment](#deployment)  
-- [Usage notes & tips](#usage-notes--tips)  
-- [Contributing](#contributing)  
-- [Troubleshooting](#troubleshooting)  
-- [License & contact](#license--contact)
-
----
-
 ## 🔎 Overview
 BuildAI is a TypeScript + React + Vite single-page app that provides:
 
